@@ -84,5 +84,5 @@ Q82::16.79
 Q83::N
 Q84::N
 Q85::N
-Q86::test
-Q87::test
+Q86::The 8 Panel designs seem to have an easier time spreading out the load as there are more nodes and more members. The scissor truss experienced the most force within the members, reaching 153.03 kip. This was much higher than either gabled howe truss.
+Q87::I think that the best kind of truss out of these three is probably the 8 panel gabled howe. It spreads out the load the best and has significantly lower internal forces compared to the scissor truss. While the scissor truss might be a cooler design, it is hard to beat having only half the max internal force in a member. The 6 panel gable howe is also not a bad choice, I think that the 8 panel design is more redundant.
