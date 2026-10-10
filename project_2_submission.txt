@@ -1,4 +1,4 @@
-PartialCredit::F
+PartialCredit::T
 Q1::T
 Q2::T
 Q3::T
